@@ -1,0 +1,10 @@
+# pca
+*.gz
+*.tbi
+*.panel
+
+# general
+.DS_STORE
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
