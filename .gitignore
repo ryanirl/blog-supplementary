@@ -1,3 +1,7 @@
+hopfield_networks/
+phase_transitions_and_ising/archive/
+
+
 # pca
 *.gz
 *.tbi
