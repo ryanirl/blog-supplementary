@@ -63,7 +63,6 @@ class IsingModel:
         self.spins = _metropolis_step(self.spins, self.size, self.temperature, self.J)
 
 
-
 def save_image(path):
     from PIL import Image
     image_uint8 = (image * 255).astype(np.uint8)
